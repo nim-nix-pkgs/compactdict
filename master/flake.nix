@@ -9,7 +9,7 @@
   
   inputs.src-compactdict-master.flake = false;
   inputs.src-compactdict-master.owner = "LemonBoy";
-  inputs.src-compactdict-master.ref   = "refs/heads/master";
+  inputs.src-compactdict-master.ref   = "master";
   inputs.src-compactdict-master.repo  = "compactdict";
   inputs.src-compactdict-master.type  = "github";
   
