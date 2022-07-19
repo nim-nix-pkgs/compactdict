@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658031807,
-        "narHash": "sha256-MGdiYQhsIEvi0fChcRXUmxbIgwXdqy0duEZdkn6wj7c=",
+        "lastModified": 1658201324,
+        "narHash": "sha256-0DpmAp/gCRsYkmdmeXWX3WpD55ajbx1y4mMeqKcNBbU=",
         "owner": "nim-nix-pkgs",
         "repo": "compactdict",
-        "rev": "74a8420a51e408d50993702382c1c0be43ab77e9",
+        "rev": "a9aa05880ed648235953d77a8b2eba2b0022cb7f",
         "type": "github"
       },
       "original": {
